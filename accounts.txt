@@ -1,0 +1,6 @@
+# Authorized example accounts for this local simulation
+admin
+hr_manager
+employee01
+security_team
+finance_user

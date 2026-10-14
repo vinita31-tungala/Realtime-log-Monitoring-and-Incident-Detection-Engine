@@ -1,0 +1,90 @@
+REAL-TIME LOG MONITORING AND INCIDENT DETECTION ENGINE
+==========================================================
+Generated: 2026-10-14T20:48:55+05:30
+Events scanned: 138
+Malformed lines skipped: 0
+Tracked incidents: 14
+Unresolved incidents: 11
+
+UNRESOLVED BY SEVERITY
+------------------------
+CRITICAL: 2
+HIGH: 6
+MEDIUM: 3
+LOW: 0
+
+INCIDENT TYPE COUNTS
+--------------------
+BRUTE_FORCE: 2
+LOGIN_BURST: 3
+MULTI_ACCOUNT_TARGETING: 2
+SUCCESS_AFTER_REPEATED_FAILURES: 2
+UNKNOWN_ACCOUNT_ENUMERATION: 2
+
+INCIDENT DETAILS
+----------------
+INC-000011 | HIGH | Risk 100/100
+Type: MULTI_ACCOUNT_TARGETING | IP: 198.51.100.24 | Location: Unknown / unmapped location
+Status: OPEN | Events: 11
+Description: One IP attempted to access 5 different accounts.
+Recommended action: Review the targeted accounts and investigate the source activity.
+
+INC-000004 | CRITICAL | Risk 95/100
+Type: SUCCESS_AFTER_REPEATED_FAILURES | IP: 203.0.113.45 | Location: Unknown / unmapped location
+Status: OPEN | Events: 12
+Description: A successful login occurred after repeated failures from the same IP.
+Recommended action: Urgently review the session, verify the user, and revoke access if compromise is confirmed.
+
+INC-000009 | CRITICAL | Risk 95/100
+Type: SUCCESS_AFTER_REPEATED_FAILURES | IP: 192.0.2.77 | Location: Unknown / unmapped location
+Status: OPEN | Events: 30
+Description: A successful login occurred after repeated failures from the same IP.
+Recommended action: Urgently review the session, verify the user, and revoke access if compromise is confirmed.
+
+INC-000006 | HIGH | Risk 92/100
+Type: MULTI_ACCOUNT_TARGETING | IP: 192.0.2.77 | Location: Unknown / unmapped location
+Status: OPEN | Events: 4
+Description: One IP attempted to access 4 different accounts.
+Recommended action: Review the targeted accounts and investigate the source activity.
+
+INC-000013 | HIGH | Risk 90/100
+Type: BRUTE_FORCE | IP: 198.51.100.24 | Location: Unknown / unmapped location
+Status: OPEN | Events: 6
+Description: 6 known-account password failures occurred in a short window.
+Recommended action: Review authentication logs; rate-limit or temporarily block the source in a real system.
+
+INC-000005 | MEDIUM | Risk 85/100
+Type: LOGIN_BURST | IP: 203.0.113.45 | Location: Unknown / unmapped location
+Status: OPEN | Events: 16
+Description: 16 login events occurred from one IP within 60 seconds.
+Recommended action: Check whether the burst is expected automation or suspicious activity.
+
+INC-000008 | HIGH | Risk 85/100
+Type: BRUTE_FORCE | IP: 192.0.2.77 | Location: Unknown / unmapped location
+Status: OPEN | Events: 5
+Description: 5 known-account password failures occurred in a short window.
+Recommended action: Review authentication logs; rate-limit or temporarily block the source in a real system.
+
+INC-000012 | HIGH | Risk 85/100
+Type: UNKNOWN_ACCOUNT_ENUMERATION | IP: 198.51.100.24 | Location: Unknown / unmapped location
+Status: OPEN | Events: 5
+Description: 5 attempts used usernames not listed in accounts.txt.
+Recommended action: Check username discovery attempts and review account exposure.
+
+INC-000007 | HIGH | Risk 80/100
+Type: UNKNOWN_ACCOUNT_ENUMERATION | IP: 192.0.2.77 | Location: Unknown / unmapped location
+Status: OPEN | Events: 4
+Description: 4 attempts used usernames not listed in accounts.txt.
+Recommended action: Check username discovery attempts and review account exposure.
+
+INC-000010 | MEDIUM | Risk 77/100
+Type: LOGIN_BURST | IP: 192.0.2.77 | Location: Unknown / unmapped location
+Status: OPEN | Events: 11
+Description: 11 login events occurred from one IP within 60 seconds.
+Recommended action: Check whether the burst is expected automation or suspicious activity.
+
+INC-000014 | MEDIUM | Risk 77/100
+Type: LOGIN_BURST | IP: 198.51.100.24 | Location: Unknown / unmapped location
+Status: OPEN | Events: 11
+Description: 11 login events occurred from one IP within 60 seconds.
+Recommended action: Check whether the burst is expected automation or suspicious activity.

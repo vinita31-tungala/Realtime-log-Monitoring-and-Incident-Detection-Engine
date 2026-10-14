@@ -1,0 +1,139 @@
+timestamp,source_ip,username,event,reason,classification,location
+2026-10-14T12:02:54+05:30,203.0.113.45,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:02:57+05:30,203.0.113.45,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:00+05:30,203.0.113.45,hr_manager,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:03+05:30,203.0.113.45,administrator,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:06+05:30,203.0.113.45,root,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:09+05:30,203.0.113.45,superuser,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:12+05:30,203.0.113.45,employee01,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:15+05:30,203.0.113.45,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:18+05:30,203.0.113.45,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:03:21+05:30,203.0.113.45,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:03:24+05:30,203.0.113.45,payroll,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:27+05:30,203.0.113.45,backup_admin,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:30+05:30,203.0.113.45,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:33+05:30,203.0.113.45,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:03:36+05:30,203.0.113.45,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:03:39+05:30,203.0.113.45,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:34+05:30,192.0.2.77,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:37+05:30,192.0.2.77,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:40+05:30,192.0.2.77,hr_manager,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:43+05:30,192.0.2.77,administrator,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:46+05:30,192.0.2.77,root,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:49+05:30,192.0.2.77,superuser,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:52+05:30,192.0.2.77,employee01,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:55+05:30,192.0.2.77,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:03:58+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:01+05:30,192.0.2.77,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:04+05:30,192.0.2.77,payroll,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:07+05:30,192.0.2.77,backup_admin,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:10+05:30,192.0.2.77,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:13+05:30,192.0.2.77,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:16+05:30,192.0.2.77,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:19+05:30,192.0.2.77,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:00+05:30,192.0.2.77,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:03+05:30,192.0.2.77,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:06+05:30,192.0.2.77,hr_manager,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:09+05:30,192.0.2.77,administrator,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:12+05:30,192.0.2.77,root,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:15+05:30,192.0.2.77,superuser,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:18+05:30,192.0.2.77,employee01,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:21+05:30,192.0.2.77,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:24+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:27+05:30,192.0.2.77,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:30+05:30,192.0.2.77,payroll,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:33+05:30,192.0.2.77,backup_admin,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:36+05:30,192.0.2.77,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:39+05:30,192.0.2.77,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:42+05:30,192.0.2.77,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:45+05:30,192.0.2.77,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:48+05:30,192.0.2.77,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:51+05:30,192.0.2.77,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:54+05:30,192.0.2.77,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:57+05:30,192.0.2.77,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:00+05:30,192.0.2.77,sysadmin,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:05:03+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:06+05:30,192.0.2.77,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:09+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:12+05:30,192.0.2.77,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:15+05:30,192.0.2.77,security_team,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:18+05:30,192.0.2.77,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:21+05:30,192.0.2.77,security_team,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:24+05:30,192.0.2.77,root,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:05:27+05:30,192.0.2.77,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:30+05:30,192.0.2.77,security_team,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:33+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:36+05:30,192.0.2.77,security_team,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:39+05:30,192.0.2.77,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:42+05:30,192.0.2.77,backup_admin,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:05:45+05:30,192.0.2.77,administrator,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:05:48+05:30,192.0.2.77,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:51+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:54+05:30,192.0.2.77,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:57+05:30,192.0.2.77,payroll,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:04:31+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:04:41+05:30,192.0.2.20,finance_user,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:04:44+05:30,192.0.2.10,employee01,login_success,none,SUCCESSFUL_LOGIN,Example Office Network (test mapping)
+2026-10-14T12:04:47+05:30,192.0.2.20,finance_user,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:05:03+05:30,192.0.2.20,security_team,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:05:22+05:30,192.0.2.20,admin,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:05:41+05:30,192.0.2.20,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:05:41+05:30,192.0.2.10,admin,login_success,none,SUCCESSFUL_LOGIN,Example Office Network (test mapping)
+2026-10-14T12:05:41+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:05:43+05:30,192.0.2.10,employee01,login_success,none,SUCCESSFUL_LOGIN,Example Office Network (test mapping)
+2026-10-14T12:05:55+05:30,192.0.2.77,security_team,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:06:23+05:30,192.0.2.10,finance_user,login_success,none,SUCCESSFUL_LOGIN,Example Office Network (test mapping)
+2026-10-14T12:06:31+05:30,192.0.2.20,finance_user,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:06:43+05:30,192.0.2.20,admin,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:06:55+05:30,192.0.2.77,security_team,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:07:20+05:30,192.0.2.20,admin,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:06:12+05:30,192.0.2.10,finance_user,login_success,none,SUCCESSFUL_LOGIN,Example Office Network (test mapping)
+2026-10-14T12:06:20+05:30,192.0.2.20,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Example Remote Network (test mapping)
+2026-10-14T12:06:20+05:30,192.0.2.20,employee01,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:07:03+05:30,192.0.2.77,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:07:12+05:30,192.0.2.10,admin,login_success,none,SUCCESSFUL_LOGIN,Example Office Network (test mapping)
+2026-10-14T12:07:18+05:30,192.0.2.77,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:07:27+05:30,192.0.2.10,employee01,login_success,none,SUCCESSFUL_LOGIN,Example Office Network (test mapping)
+2026-10-14T12:07:36+05:30,192.0.2.20,admin,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:06:17+05:30,192.0.2.20,admin,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:06:29+05:30,192.0.2.77,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:06:33+05:30,192.0.2.77,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:06:41+05:30,192.0.2.77,security_team,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:06:42+05:30,192.0.2.20,admin,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:07:05+05:30,192.0.2.77,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T12:07:27+05:30,192.0.2.20,admin,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:07:29+05:30,192.0.2.20,security_team,login_success,none,SUCCESSFUL_LOGIN,Example Remote Network (test mapping)
+2026-10-14T12:06:22+05:30,198.51.100.24,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:25+05:30,198.51.100.24,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:28+05:30,198.51.100.24,hr_manager,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:31+05:30,198.51.100.24,administrator,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:34+05:30,198.51.100.24,root,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:37+05:30,198.51.100.24,superuser,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:27+05:30,198.51.100.24,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:30+05:30,198.51.100.24,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:33+05:30,198.51.100.24,hr_manager,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:36+05:30,198.51.100.24,administrator,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:39+05:30,198.51.100.24,root,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:32+05:30,203.0.113.45,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:35+05:30,203.0.113.45,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:38+05:30,203.0.113.45,hr_manager,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:41+05:30,203.0.113.45,administrator,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:44+05:30,203.0.113.45,root,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:47+05:30,203.0.113.45,superuser,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T12:06:50+05:30,203.0.113.45,employee01,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:29:56+05:30,203.0.113.45,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:29:59+05:30,203.0.113.45,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:02+05:30,203.0.113.45,hr_manager,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:05+05:30,203.0.113.45,administrator,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:08+05:30,203.0.113.45,root,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:11+05:30,203.0.113.45,superuser,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:14+05:30,203.0.113.45,employee01,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:17+05:30,203.0.113.45,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:20+05:30,203.0.113.45,admin,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T14:30:23+05:30,203.0.113.45,finance_user,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T14:30:26+05:30,203.0.113.45,payroll,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:29+05:30,203.0.113.45,backup_admin,login_failed,unknown user,UNKNOWN_ACCOUNT_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:32+05:30,203.0.113.45,admin,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
+2026-10-14T14:30:35+05:30,203.0.113.45,hr_manager,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T14:30:38+05:30,203.0.113.45,employee01,login_success,none,SUCCESSFUL_LOGIN,Unknown / unmapped location
+2026-10-14T14:30:41+05:30,203.0.113.45,security_team,login_failed,invalid password,FAILED_PASSWORD_ATTEMPT,Unknown / unmapped location
